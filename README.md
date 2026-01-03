@@ -70,3 +70,15 @@ It supports basic and scientific calculations with a clean iPhone-style UI.
 2.Company: Walia Creations<br>
 3.LinkedIn: https://www.linkedin.com/in/ishanwalia<br>
 4.GitHub: https://github.com/ishan-walia<br>
+
+## ⭐ Support
+
+If you like this project, please give a ⭐ star on GitHub.
+It motivates me to build more free Android apps for students ❤️
+
+```
+
+
+Agle app ka naam bolo 😄  
+Tera GitHub profile ab full premium lagne wala hai 🔥
+```
