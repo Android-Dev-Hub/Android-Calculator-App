@@ -43,7 +43,7 @@ It supports basic and scientific calculations with a clean iPhone-style UI.
 </p>
 ```
 
-⬇️ Installation
+## ⬇️ Installation
 
 1.Download APK from GitHub Releases
 
@@ -53,7 +53,7 @@ It supports basic and scientific calculations with a clean iPhone-style UI.
 
 4.Open Calculator and start calculating 🚀
 
-🚀 Future Updates
+## 🚀 Future Updates
 
 <li>History of Calculations</li>
 
