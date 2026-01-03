@@ -54,7 +54,7 @@ It supports basic and scientific calculations with a clean iPhone-style UI.
 4.Open Calculator and start calculating 🚀
 
 ## 🚀 Future Updates
-
+<ol>
 <li>History of Calculations</li>
 
 <li>Unit Converter</li>
@@ -62,3 +62,11 @@ It supports basic and scientific calculations with a clean iPhone-style UI.
 <li>Currency Converter</li>
 
 <li>Voice Input</li>
+</ol>
+
+## 👨‍💻 Developer
+
+1.Ishan Walia<br>
+2.Company: Walia Creations<br>
+3.LinkedIn: https://www.linkedin.com/in/ishanwalia<br>
+4.GitHub: https://github.com/ishan-walia<br>
