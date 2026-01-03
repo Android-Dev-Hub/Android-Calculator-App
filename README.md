@@ -52,3 +52,13 @@ It supports basic and scientific calculations with a clean iPhone-style UI.
 3.Install APK
 
 4.Open Calculator and start calculating 🚀
+
+🚀 Future Updates
+
+<li>History of Calculations</li>
+
+<li>Unit Converter</li>
+
+<li>Currency Converter</li>
+
+<li>Voice Input</li>
