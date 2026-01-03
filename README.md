@@ -41,3 +41,14 @@ It supports basic and scientific calculations with a clean iPhone-style UI.
   <img src="screenshots/scientific.png" width="240">
   <img src="screenshots/darkmode.png" width="240">
 </p>
+```
+
+⬇️ Installation
+
+1.Download APK from GitHub Releases
+
+2.Enable Install from Unknown Sources
+
+3.Install APK
+
+4.Open Calculator and start calculating 🚀
